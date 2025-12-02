@@ -55,13 +55,15 @@ Cara Manual: Buka folder di File Explorer, klik 2x pada index.html.
 
 VS Code: Install ekstensi "Live Server", klik kanan index.html > "Open with Live Server".
 
-### 📂 Struktur File
+## 📂 Struktur File
 
+```text
 /
-├── index.html # File utama (Struktur & Layout)
-├── style.css # File gaya (Warna Pastel & Tata Letak)
-├── script.js # File logika (Hashing, Mining, ECC, Consensus)
-├── img/ # (Opsional) Folder gambar profil
-│ └── profile.jpg
-├── cv.pdf # (Opsional) File CV untuk didownload
-└── README.md # Dokumentasi proyek ini
+├── index.html      # File utama (Struktur & Layout)
+├── style.css       # File gaya (Warna Pastel & Tata Letak)
+├── script.js       # File logika (Hashing, Mining, ECC, Consensus)
+├── img/            # (Opsional) Folder gambar profil
+│   └── profile.jpg
+├── cv.pdf          # (Opsional) File CV untuk didownload
+└── README.md       # Dokumentasi proyek ini
+```
